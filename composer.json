@@ -1,13 +1,13 @@
 {
-    "name": "zanysoft/laravel-zip",
-    "description": "laravel-zip is the world's leading zip utility for file compression and backup.",
+    "name": "acodingpeter/laravel-zip",
+    "description": "fork of zanysoft/laravel-zip",
     "license": "MIT",
-    "homepage": "http://www.zanysoft.co",
+    "homepage": "https://github.com/acodingpeter/laravel-zip",
     "authors": [
         {
-            "name": "Zany Soft",
-            "email": "info@zanysoft.co",
-            "homepage": "http://www.zanysoft.co"
+            "name": "A Coding Peter",
+            "email": "p.hoermeyer@a-coding-project.de",
+            "homepage": "https://github.com/acodingpeter/laravel-zip"
         }
     ],
     "keywords": [
